@@ -1,0 +1,101 @@
+body {
+	color:#000000;
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+
+#monster {width: 100%;
+	height: 800px;
+	background-image: url('../mh4.jpg');
+	background-size: cover;
+	background-position: center top;
+
+}
+#evo {width: 100%;
+	height: 800px;
+	background-image: url('../evo.jpg');
+	background-size: cover;
+	background-position: center top;
+
+}
+#xeno{width: 100%;
+	height: 800px;
+	background-image: url('../images/xenoblade.jpg');
+	background-size: cover;
+	background-position: center top;
+
+}
+#ps4{width: 100%;
+	height: 800px;
+	background-image: url('../images/maxresdefault.jpg');
+	background-size: cover;
+	background-position: center top;
+
+}
+
+.presentation {
+	background-color: white;
+}
+
+a {
+	color: #194073;
+}
+
+a:hover {
+	text-decoration:none;
+	}
+
+.rounded {
+	border-radius:90%;
+	border: 1px solid #000000;
+}
+
+.rounded:hover {
+	opacity: 0.8;
+}
+
+
+.logo-rs {
+	border-radius: 0;
+	&:hover {
+		opacity: 0.8;
+		}
+}
+
+.classement {
+	background-image: url('../images/images-1.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.navbar-header {
+	height: 75px;
+}
+
+.navbar {
+  margin-bottom: 0px;
+}
+
+#logo-brand {
+	height: 50px;
+}
+.card {
+
+}
+.small {
+  width: 150px;
+}
+.btn:hover  {
+  opacity: 1
+
+
+}
+.btn{
+  transition:all 0.3s linear;
+}
+.rounded{
+  transition:all 0.3s esea;
+}
+
+
